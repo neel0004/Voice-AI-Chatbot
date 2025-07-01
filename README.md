@@ -17,5 +17,3 @@ A voice-based AI assistant that lets you talk, listens to you, and talks back â€
 2. Choose a personality to make the AI respond differently.
 3. Listen to the AI reply, view the transcript.
 4. All chats are saved for later review!
-
-## (Demo Video Link)
